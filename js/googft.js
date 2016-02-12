@@ -192,7 +192,7 @@ $(document).ready(function() {
 				'cursor' : 'pointer'
 			}
 			var iconActive = {
-				'color' : '#b70b0b',
+				'color' : '#e74c3c',
 				'cursor' : 'default'
 			}
 
